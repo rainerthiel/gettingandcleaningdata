@@ -1,0 +1,68 @@
+This attribute shows the  subject who performed the activity for each window sample. Its range is from 1 to 30.
+This attribute shows the  activity performed by the subject (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
+This attribute shows the mean of the body linear acceleration along the X axis. Origin is a time domain signal.
+This attribute shows the mean of the body linear acceleration along the Y axis. Origin is a time domain signal.
+This attribute shows the mean of the body linear acceleration along the Z axis. Origin is a time domain signal.
+This attribute shows the standard deviation of the body linear acceleration along the X axis. Origin is a time domain signal.
+This attribute shows the standard deviation of the body linear acceleration along the Y axis. Origin is a time domain signal.
+This attribute shows the standard deviation of the body linear acceleration along the Z axis. Origin is a time domain signal.
+This attribute shows the mean of the gravitational acceleration along the X axis. Origin is a time domain signal.
+This attribute shows the mean of the gravitational acceleration along the Y axis. Origin is a time domain signal.
+This attribute shows the mean of the gravitational acceleration along the Z axis. Origin is a time domain signal.
+This attribute shows the standard deviation of the gravitational acceleration along the X axis. Origin is a time domain signal.
+This attribute shows the standard deviation of the gravitational acceleration along the Y axis. Origin is a time domain signal.
+This attribute shows the standard deviation of the gravitational acceleration along the Z axis. Origin is a time domain signal.
+This attribute shows the mean of the body linear acceleration jerk signal along the X axis. Origin is a time domain signal.
+This attribute shows the mean of the body linear acceleration jerk signal along the Y axis. Origin is a time domain signal.
+This attribute shows the mean of the body linear acceleration jerk signal along the Z axis. Origin is a time domain signal.
+This attribute shows the standard deviation of the body linear acceleration jerk signal along the X axis. Origin is a time domain signal.
+This attribute shows the standard deviation of the body linear acceleration jerk signal along the Y axis. Origin is a time domain signal.
+This attribute shows the standard deviation of the body linear acceleration jerk signal along the Z axis. Origin is a time domain signal.
+This attribute shows the mean of the body angular velocity along the X axis. Origin is a time domain signal.
+This attribute shows the mean of the body angular velocity along the Y axis. Origin is a time domain signal.
+This attribute shows the mean of the body angular velocity along the Z axis. Origin is a time domain signal.
+This attribute shows the standard deviation of the body angular velocity along the X axis. Origin is a time domain signal.
+This attribute shows the standard deviation of the body angular velocity along the Y axis. Origin is a time domain signal.
+This attribute shows the standard deviation of the body angular velocity along the Z axis. Origin is a time domain signal.
+This attribute shows the mean of the body angular velocity jerk signal along the X axis. Origin is a time domain signal.
+This attribute shows the mean of the body angular velocity jerk signal along the Y axis. Origin is a time domain signal.
+This attribute shows the mean of the body angular velocity jerk signal along the Z axis. Origin is a time domain signal.
+This attribute shows the standard deviation of the body angular velocity jerk signal along the X axis. Origin is a time domain signal.
+This attribute shows the standard deviation of the body angular velocity jerk signal along the Y axis. Origin is a time domain signal.
+This attribute shows the standard deviation of the body angular velocity jerk signal along the Z axis. Origin is a time domain signal.
+This attribute shows the mean of the body linear acceleration magnitude. Origin is a time domain signal.
+This attribute shows the standard deviation of the body linear acceleration magnitude. Origin is a time domain signal.
+This attribute shows the mean of the gravitational acceleration magnitude. Origin is a time domain signal.
+This attribute shows the standard deviation of the gravitational acceleration magnitude. Origin is a time domain signal.
+This attribute shows the mean of the body linear acceleration jerk signal magnitude. Origin is a time domain signal.
+This attribute shows the standard deviation of the body linear acceleration jerk signal magnitude. Origin is a time domain signal.
+This attribute shows the mean of the body angular velocity magnitude. Origin is a time domain signal.
+This attribute shows the standard deviation of the body angular velocity magnitude. Origin is a time domain signal.
+This attribute shows the mean of the body angular velocity jerk signal magnitude. Origin is a time domain signal.
+This attribute shows the standard deviation of the body angular velocity jerk signal magnitude. Origin is a time domain signal.
+This attribute shows the mean of the body linear acceleration along the X axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the mean of the body linear acceleration along the Y axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the mean of the body linear acceleration along the Z axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the standard deviation of the body linear acceleration along the X axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the standard deviation of the body linear acceleration along the Y axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the standard deviation of the body linear acceleration along the Z axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the mean of the body linear acceleration jerk signal along the X axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the mean of the body linear acceleration jerk signal along the Y axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the mean of the body linear acceleration jerk signal along the Z axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the standard deviation of the body linear acceleration jerk signal along the X axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the standard deviation of the body linear acceleration jerk signal along the Y axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the standard deviation of the body linear acceleration jerk signal along the Z axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the mean of the body angular velocity along the X axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the mean of the body angular velocity along the Y axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the mean of the body angular velocity along the Z axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the standard deviation of the body angular velocity along the X axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the standard deviation of the body angular velocity along the Y axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the standard deviation of the body angular velocity along the Z axis. Origin is a frequency (FFT) domain signal.
+This attribute shows the mean of the body linear acceleration magnitude. Origin is a frequency (FFT) domain signal.
+This attribute shows the standard deviation of the body linear acceleration magnitude. Origin is a frequency (FFT) domain signal.
+This attribute shows the mean of the body body linear acceleration jerk signal magnitude. Origin is a frequency (FFT) domain signal.
+This attribute shows the standard deviation of the body body linear acceleration jerk signal magnitude. Origin is a frequency (FFT) domain signal.
+This attribute shows the mean of the body body angular velocity magnitude. Origin is a frequency (FFT) domain signal.
+This attribute shows the standard deviation of the body body angular velocity magnitude. Origin is a frequency (FFT) domain signal.
+This attribute shows the mean of the body body angular velocity jerk signal magnitude. Origin is a frequency (FFT) domain signal.
+This attribute shows the standard deviation of the body body angular velocity jerk signal magnitude. Origin is a frequency (FFT) domain signal.
